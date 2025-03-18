@@ -19,15 +19,3 @@ Estatísticas do meu GitHub:
 Linguagens que mais uso, com base nos meus projetos e atividades:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=moltack)
-
----
-
-### Contribuições no GitHub
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Macenajp)
-
----
-
-### Repositórios
-
-[![Meu Repositório](https://github-readme-stats.vercel.app/api/pin/?username=Macenajp&repo=nome-do-repositorio&theme=radical)](https://github.com/Macenap/macenajp)
