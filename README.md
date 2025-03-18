@@ -8,8 +8,6 @@ Olá, me chamo João Pedro, tenho 17 anos e iniciei minha jornada no ensino supe
 
 ### Estatísticas do GitHub
 
-Estatísticas do meu GitHub:
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macenajp&show_icons=true&hide=prs&count_private=true&theme=moltack)
 
 ---
