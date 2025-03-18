@@ -24,10 +24,10 @@ Linguagens que mais uso, com base nos meus projetos e atividades:
 
 ### Contribuições no GitHub
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Macenap)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Macenajp)
 
 ---
 
 ### Repositórios
 
-[![Meu Repositório](https://github-readme-stats.vercel.app/api/pin/?username=Macenap&repo=nome-do-repositorio&theme=radical)](https://github.com/Macenap/nome-do-repositorio)
+[![Meu Repositório](https://github-readme-stats.vercel.app/api/pin/?username=Macenajp&repo=nome-do-repositorio&theme=radical)](https://github.com/Macenap/macenajp)
