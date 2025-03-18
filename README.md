@@ -6,19 +6,19 @@ Olá, me chamo João Pedro, tenho 17 anos e iniciei minha jornada no ensino supe
 
 ---
 
-### Linguagens que mais utilizo
-
-Linguagens que mais uso, com base nos meus projetos e atividades:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=dark)
-
----
-
 ### Estatísticas do GitHub
 
 Estatísticas do meu GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Macenajp&show_icons=true&hide=prs&count_private=true)
+
+---
+
+### Linguagens que mais utilizo
+
+Linguagens que mais uso, com base nos meus projetos e atividades:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=dark)
 
 ---
 
