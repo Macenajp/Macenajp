@@ -14,8 +14,4 @@ Estatísticas do meu GitHub:
 
 ---
 
-### Linguagens que mais utilizo
-
-Linguagens que mais uso, com base nos meus projetos e atividades:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=moltack)
