@@ -2,7 +2,7 @@
 
 ### Desenvolvedor em desenvolvimento
 
-Olá, me chamo João Pedro, tenho 17 anos e iniciei minha jornada no ensino superior na PUCPR agora em 2025. Sou natural da Bahia, e moro em Curitiba desde 2018. Concluí o ensino médio no Colégio Estadual do Paraná, e desde a pandemia comecei e concluí diversos cursos, desde JavaScript até Python. Estou 
+Olá, me chamo João Pedro, tenho 17 anos e iniciei minha jornada no ensino superior na PUCPR agora em 2025. Sou natural da Bahia, e moro em Curitiba desde 2018. Concluí o ensino médio no Colégio Estadual do Paraná, e desde a pandemia comecei e concluí diversos cursos, desde JavaScript até Python. Esto
 
 ---
 
