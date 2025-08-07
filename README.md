@@ -2,7 +2,7 @@
 
 ### Desenvolvedor em desenvolvimento
 
-Olá, me chamo João Pedro, tenho 18 anos e iniciei minha jornada no ensino superior na PUCPR agora em 2025. Sou natural da Bahia, e moro em Curitiba desde 2018. Almejo seguir carreira em IA e Machine Learning e/ou em cibersegurança, em cooperação com as Forças Armadas do Brasil.
+Olá, me chamo João Pedro, tenho 18 anos e iniciei minha jornada no ensino superior na PUCPR agora em 2025. Sou natural da Bahia, e moro em Curitiba desde 2018. Almejo seguir carreira em IA e/ou em cibersegurança, em cooperação com as Forças Armadas do Brasil.
 
 ---
 
