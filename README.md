@@ -16,6 +16,4 @@ Olá, me chamo João Pedro, tenho 18 anos e iniciei minha jornada no ensino supe
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=github_dark_dimmed)
 -->
 
-### Estatísticas do GitHub:
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Macenajp&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
