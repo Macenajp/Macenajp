@@ -18,12 +18,11 @@ Opção 1:
 ---
 
 Opção 2:
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Macenajp&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macenajp&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=github_dark_dimmed)
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macenajp&theme=transparent)
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Macenajp&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
