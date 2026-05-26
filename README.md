@@ -23,7 +23,7 @@ Opção 2:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=github_dark_dimmed)
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macenajp&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macenajp&theme=transparent)
 
 
 
