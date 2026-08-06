@@ -6,7 +6,7 @@
 
 ### Sobre:
 
-Olá, me chamo João Pedro, tenho 18 anos e iniciei minha jornada no ensino superior na PUCPR agora em 2025. Sou natural da Bahia, e resido em Curitiba desde 2018. Almejo seguir carreira em IA e/ou cibersegurança, em cooperação com as Forças Armadas do Brasil.
+Chamo-me João Pedro, tenho 19 anos e iniciei a minha jornada no curso de Ciência da Computação na PUCPR em 2025. Aqui você pode conferir o meu portfolio, onde apresento meus projetos e atividades curriculares.
 
 ---
 
