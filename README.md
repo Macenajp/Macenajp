@@ -10,7 +10,7 @@ Chamo-me João Pedro, tenho 19 anos e iniciei a minha jornada no curso de Ciênc
 
 ---
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 <!--
 ### Estatísticas do GitHub
