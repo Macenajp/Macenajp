@@ -23,6 +23,4 @@ Opção 2:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Macenajp&layout=compact&theme=github_dark_dimmed)
 -->
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Macenajp&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
