@@ -1,18 +1,28 @@
 # João Pedro "MacENA" Correa
 
-<!--
-### Dev em desenvolvimento
--->
-
 ### Sobre:
 
 Me chamo João Pedro, tenho 19 anos e iniciei a minha jornada no curso de Ciência da Computação na PUCPR em 2025. Aqui você pode conferir o meu portfolio onde apresento meus projetos pessoais e atividades curriculares.
 
-
-
 ---
-<!--
 
+<div align="center">
+  <table>
+    <tr>
+      <!-- Cartão Neofetch na ESQUERDA -->
+      <td valign="top"><img src="./neofetch.svg" width="430" alt="Neofetch Card" /></td>
+      
+      <!-- Cartão de Estatísticas na DIREITA -->
+      <td valign="top"><img src="./stats.svg" width="430" alt="Stats Card" /></td>
+    </tr>
+  </table>
+</div>
+
+
+
+<!--
+Gráfico Noturno 3D Antigo 
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 ### Estatísticas do GitHub
