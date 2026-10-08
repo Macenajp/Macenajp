@@ -6,7 +6,7 @@ Me chamo João Pedro, tenho 19 anos e iniciei a minha jornada no curso de Ciênc
 
 <p align="center">
   <img src="./stats.svg" width="49%" />
-  <img src="./neofetch.svg" width="49%" />
+  <img src="./neofetch.svg?v=2" width="49%" />
 </p>
 
 
