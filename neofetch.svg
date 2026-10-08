@@ -1,38 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="420" viewBox="0 0 430 420">
-<defs>
-  <linearGradient id="bg_neo" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#111722"/>
-    <stop offset="1" stop-color="#0d1117"/>
-  </linearGradient>
-</defs>
-<rect width="100%" height="100%" rx="12" fill="url(#bg_neo)"/>
-<rect x="0.5" y="0.5" width="429" height="419" rx="12" fill="none" stroke="#30363d"/>
-  <!-- Botoes da janela -->
-  <circle cx="20" cy="20" r="6" fill="#ff5f56"/>
-  <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
-  <circle cx="60" cy="20" r="6" fill="#27c93f"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="440" viewBox="0 0 430 440">
+  <defs>
+    <linearGradient id="bg_neo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111722"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
   
-  <!-- Titulo -->
-  <text x="125" y="24" font-family="monospace" font-size="12" fill="#8b949e">Macenajp@root ~ $ neofetch</text>
+  <!-- Fundo igual ao stats.svg -->
+  <rect width="100%" height="100%" rx="6" fill="url(#bg_neo)"/>
+  <rect x="0.5" y="0.5" width="429" height="439" rx="6" fill="none" stroke="#30363d"/>
   
-  <!-- Infos -->
-  <text x="30" y="80" font-family="monospace" font-size="16" fill="#58a6ff" font-weight="bold">Macenajp@root</text>
-  <text x="30" y="100" font-family="monospace" font-size="16" fill="#c9d1d9">---------------</text>
+  <!-- Barra de Título Superior -->
+  <line x1="0" y1="30" x2="430" y2="30" stroke="#30363d"/>
+  <circle cx="16" cy="15" r="5" fill="#ff5f56"/>
+  <circle cx="32" cy="15" r="5" fill="#ffbd2e"/>
+  <circle cx="48" cy="15" r="5" fill="#27c93f"/>
+  <text x="215" y="19" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#7d8590" text-anchor="middle">Macenajp@root ~ $ neofetch</text>
   
-  <text x="30" y="200" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Role:</tspan> CS Student @ PUCPR</text>
-  <text x="30" y="140" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">OS:</tspan> Pop!_OS and Arch (Linux) + Windows 11</text>
-  <text x="30" y="170" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Host:</tspan> Ryzen 7 5700x | RTX 4060 | 24Gb RAM</text>
-  <text x="30" y="230" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Stack:</tspan> Python, IA (SML and LLM), MySQL and Java</text>
-  <text x="30" y="260" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Tools:</tspan> VS Code, Ollama, Docker</text>
-  <text x="30" y="290" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Hobbies:</tspan> Gym, Running, Reading, Films and Series</text>
+  <!-- Textos do Neofetch -->
+  <text x="30" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#58a6ff" font-weight="bold">Macenajp@root</text>
+  <text x="30" y="90" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#c9d1d9">---------------</text>
+  
+  <text x="30" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">OS:</tspan> Pop!_OS and Arch (Linux) + Windows 11</text>
+  <text x="30" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Host:</tspan> Ryzen 7 5700x | RTX 4060 | 24Gb RAM</text>
+  <text x="30" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Role:</tspan> CS Student @ PUCPR</text>
+  <text x="30" y="250" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Stack:</tspan> Python, IA (SML and LLM), MySQL and Java</text>
+  <text x="30" y="290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Tools:</tspan> VS Code, Ollama, Docker</text>
+  <text x="30" y="330" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Hobbies:</tspan> Gym, Running, Reading, Films and Series</text>
 
-  <!-- Blocos de cor no final imitando o neofetch real -->
-  <rect x="30" y="340" width="16" height="16" fill="#0d1117"/>
-  <rect x="46" y="340" width="16" height="16" fill="#ff5f56"/>
-  <rect x="62" y="340" width="16" height="16" fill="#39d353"/>
-  <rect x="78" y="340" width="16" height="16" fill="#ffbd2e"/>
-  <rect x="94" y="340" width="16" height="16" fill="#58a6ff"/>
-  <rect x="110" y="340" width="16" height="16" fill="#d2a8ff"/>
-  <rect x="126" y="340" width="16" height="16" fill="#56d364"/>
-  <rect x="142" y="340" width="16" height="16" fill="#c9d1d9"/>
+  <!-- Blocos de cor no final -->
+  <rect x="30" y="380" width="16" height="16" fill="#ff5f56"/>
+  <rect x="46" y="380" width="16" height="16" fill="#27c93f"/>
+  <rect x="62" y="380" width="16" height="16" fill="#ffbd2e"/>
+  <rect x="78" y="380" width="16" height="16" fill="#58a6ff"/>
+  <rect x="94" y="380" width="16" height="16" fill="#d2a8ff"/>
+  <rect x="110" y="380" width="16" height="16" fill="#56d364"/>
+  <rect x="126" y="380" width="16" height="16" fill="#c9d1d9"/>
 </svg>
