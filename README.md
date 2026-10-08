@@ -2,7 +2,7 @@
 
 Me chamo João Pedro, tenho 19 anos e iniciei a minha jornada no curso de Ciência da Computação na PUCPR em 2025. Aqui você pode conferir o meu portfolio onde apresento meus projetos pessoais e atividades curriculares. Viso seguir a área de cibersegurança, mais especificamente no "Blue Team", onde a atuação está voltada para detectar, responder e impedir invasões à sistemas.
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="./stats.svg" width="49%" />
