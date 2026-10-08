@@ -15,8 +15,8 @@
   <text x="30" y="200" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Role:</tspan> CS Student @ PUCPR</text>
   <text x="30" y="140" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">OS:</tspan> Pop!_OS and Arch (Linux) + Windows 11</text>
   <text x="30" y="170" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Host:</tspan> Ryzen 7 5700x | RTX 4060 | 24Gb RAM</text>
-  <text x="30" y="260" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Tools:</tspan> VS Code, Ollama, Docker</text>
   <text x="30" y="230" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Stack:</tspan> Python, IA (SML and LLM), MySQL and Java</text>
+  <text x="30" y="260" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Tools:</tspan> VS Code, Ollama, Docker</text>
   <text x="30" y="290" font-family="monospace" font-size="14" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Hobbies:</tspan> Gym, Running, Reading, Films and Series</text>
 
   <!-- Blocos de cor no final imitando o neofetch real -->
