@@ -4,23 +4,10 @@
 
 Me chamo João Pedro, tenho 19 anos e iniciei a minha jornada no curso de Ciência da Computação na PUCPR em 2025. Aqui você pode conferir o meu portfolio onde apresento meus projetos pessoais e atividades curriculares.
 
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <!-- Cartão Neofetch na ESQUERDA -->
-      <td valign="top">
-        <img src="./neofetch.svg" width="430" alt="Neofetch Card" />
-      </td>
-      
-      <!-- Cartão de Estatísticas na DIREITA -->
-      <td valign="top">
-        <img src="./stats.svg" width="430" alt="Stats Card" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./neofetch.svg" width="49%" />
+  <img src="./stats.svg" width="49%" />
+</p>
 
 
 
