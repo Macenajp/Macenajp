@@ -21,7 +21,7 @@
   <text x="60" y="140" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="32" fill="#58a6ff" font-weight="bold">Macenajp@root</text>
   <text x="60" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="32" fill="#c9d1d9">---------------</text>
 
-  <text x="60" y="260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">OS:</tspan> Pop!_OS and Arch (Linux) + Windows 11</text>
+  <text x="60" y="260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">OS:</tspan> EndeavourOS (Linux) + Windows 11</text>
   <text x="60" y="340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Host:</tspan> Ryzen 7 5700x | RTX 4060 | 24Gb RAM</text>
   <text x="60" y="420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Role:</tspan> CS Student @ PUCPR</text>
   <text x="60" y="500" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" fill="#c9d1d9"><tspan fill="#39d353" font-weight="bold">Stack:</tspan> Python, IA (SML and LLM), MySQL and Java</text>
